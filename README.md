@@ -31,3 +31,7 @@ To run the docker conatiner
 ```
 docker run -p 8000:8080 go-app
 ```
+
+## API Reference
+
+[Postman Collection](https://drive.google.com/drive/folders/1gzLgqwrk7ZL8lnnvXC73lLoSwTOjZFHv?usp=sharing)
